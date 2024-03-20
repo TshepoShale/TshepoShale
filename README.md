@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋🏿, I'm Tshepo Thoriso Shale</h1>
+<h1 align="center">Dumela! (Sotho Word for "Hello".) 👋🏿, I'm Tshepo Thoriso Shale</h1>
 <h3 align="center">Versatile Software Alchemist and Project Maestro: Bridging Innovation with Expertise in Software Development, I.T, and Project Management.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsheposhale&label=Profile%20views&color=0e75b6&style=flat" alt="tsheposhale" /> </p>
