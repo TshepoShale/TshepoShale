@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://tshepo-shale-portfolio.web.app/](https://tshepo-shale-portfolio.web.app/)
 
-- 💬 Ask me about **React, JavaScript, and Agile, and SCRUM.**
+- 💬 Ask me about: **React, JavaScript, Agile, and SCRUM.**
 
 - 📫 How to reach me **tsheposhale@yahoo.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1w9Hd4o8REAsxE8VoO9tz0G4OFo-ROSW5/view?usp=sharing](https://drive.google.com/file/d/1w9Hd4o8REAsxE8VoO9tz0G4OFo-ROSW5/view?usp=sharing)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1w9Hd4o8REAsxE8VoO9tz0G4OFo-ROSW5/view?usp=sharing](https://drive.google.com/file/d/1w9Hd4o8REAsxE8VoO9tz0G4OFo-ROSW5/view?usp=sharing)
 
-- ⚡ Fun fact **I am an amazing singer, keyboard player. And I can cook up a storm!**
+- ⚡ Fun fact: **I am an amazing singer, keyboard player. And I can cook up a storm!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
